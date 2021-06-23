@@ -5,11 +5,12 @@
     
     
 }
-
+/* This is the main body of content */
 body {
     background-color: #d9dcd6; 
 }
 
+/* This is the header class */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -17,15 +18,18 @@ body {
     color: #ffffff;
 }
 
+/* This is the class header h1 */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* This is the class header h1 .seo (search engine optimization) */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Here is the header div class */
 .header div {
     /*background-color: lightblue; */
     padding-top: 15px;
@@ -35,10 +39,12 @@ body {
     font-size: 20px;
 }
 
+/* This is the link to the header div lu class */
 .header div ul {
     list-style-type: none;
 }
 
+/* Here is the link to the header div lu li class */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -54,6 +60,7 @@ p {
     position: relative;
 }
 
+/* This is the link to the hero class */
 .hero {
     height: 800px;
     width: 100%;
@@ -63,22 +70,26 @@ p {
     background-position: center;
 }
 
+/* Here is the float-left class */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Here is the float-right class */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Here is the content class */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Here is the benefit class */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -138,12 +149,13 @@ p {
     max-width: 150px;
 }
 
+/* Here is the search-engine-optimizatiom(soe) class */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #92bb00;
     color: #ffffff;
 }
 
@@ -165,6 +177,7 @@ p {
     color: #ffffff;
 }
 
+/* Here is the search-engine-optimization image class */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -173,10 +186,12 @@ p {
     max-height: 200px;
 }
 
+/* here is the social-media-marketing image class */
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/* here is the search-engine-optimization h2 class */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -187,11 +202,13 @@ p {
     font-size: 36px;
 }
 
+/* here is the social-media-marketing class */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Footer section begins */
 .footer {
     background:burlywood;
     padding: 30px;
@@ -217,3 +234,5 @@ footer div {
     line-height: 1.5;
     text-align: right;
   }
+
+/* Footer section ends */
